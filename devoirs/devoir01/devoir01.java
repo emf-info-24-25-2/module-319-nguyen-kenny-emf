@@ -2,6 +2,8 @@ public class devoir01 {
     public static void main(String[] args) {
         int monAge =17;  
         boolean estMajeur;
+
+        //très bien! mais utilisez System.out.println plutot que System.err.println
         System.err.println("je m'appelle NGUYEN Kenny");
         if (monAge > 20) {
             estMajeur = true;
