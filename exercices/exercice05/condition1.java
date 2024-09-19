@@ -1,4 +1,4 @@
-package exercice05 ;
+//package exercice05 ;
     public class condition1 {
     
     
