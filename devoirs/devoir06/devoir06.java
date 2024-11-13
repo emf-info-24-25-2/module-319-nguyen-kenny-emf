@@ -5,6 +5,8 @@ public class devoir06 {
     public static final int VALEUR_MIN = 0;
     public static final int VALEUR_MAX = 50; 
     public static final int VALEUR_RECHERCHEE = 7;
+
+    //RIF: a compléter
     public static void main(String[] args) {
         
     }
